@@ -3169,7 +3169,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
         justify-content: center;
         font-size: 30px;
         line-height: 40px;
-        margin:100px 0px 0px 0px;
+        margin:70px 0px 0px 0px;
     }
 
 }
@@ -3194,7 +3194,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
         justify-content: center;
         font-size: 30px;
         line-height: 40px;
-        margin:100px 0px 0px 0px;
+        margin:150px 0px 0px 0px;
     }
     .text-se{
         margin-top: 100px;
@@ -3212,6 +3212,20 @@ input.inputerror, textarea.inputerror, select.inputerror {
     display: inline-block;
     width: 70%;
     height: 60%;
+}
+.app-image img{
+    max-width: 280px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+#app-slider{
+    position: absolute;
+    top: 50%;
+    width: 235px;
+    left: 50%;
+    height: 420px;
+    transform: translate(-50%, -50%);
 }
 
 .features{
