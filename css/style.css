@@ -99,7 +99,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 .bg-purple {background-color: #9556f5;}
 
 .gradient-bg1{
-    background-image: linear-gradient(to bottom, #4b2587, #30236f, #191d56, #0a163c, #040923);}
+    background-image: linear-gradient(to top, #010d1f, #01112f, #04123d, #170f49, #2e0351);}
 
 .gradient-bg2{
     background-image: linear-gradient(to bottom, #311262, #1e1554, #0f1444, #071134, #040923);}
@@ -905,9 +905,12 @@ span.anchor-circle{
 ====================================== */
 
 .sub-title{
-    font-size: 18px;
+    font-size: 40px;
     font-weight: 400;
-    text-align: center;
+    text-align: right;
+    color:white;
+    font-family: 'Teko', sans-serif;
+
 }
 .heading-area{
     font-size: 18px;
@@ -920,6 +923,7 @@ span.anchor-circle{
     font-weight: 600;
     margin: 15px 0 25px;
     text-align: right;
+    color: white;
 }
 .p {
     text-align: center;
@@ -927,6 +931,7 @@ span.anchor-circle{
     font-size: 35px;
     line-height: 50px;
     margin:90px 0px 0px 0px;
+    color: white;
 }
 
 
@@ -1193,7 +1198,15 @@ span.anchor-circle{
     position: relative;
     font-style: italic;
 }
+.para{
+ font-size: 25px;
+ line-height: 30px;
+ color: white;
 
+}
+
+
+ 
 #testimonial-slider::after{
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
