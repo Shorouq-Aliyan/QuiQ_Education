@@ -78,13 +78,13 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 .btn.btn-black {background: #18212e; border-color: #18212e; color: #ffffff}
 .btn.btn-blue {background: #03a9f5; border-color: #03a9f5; color: #ffffff}
 .btn.btn-pink {background: #05064e; border-color: #05064e; color: #ffffff}
-.btn.btn-purple {background: #7004bc; border-color: #7004bc; color: #ffffff}
+.btn.btn-purple {background: #35015a; border-color: #300152; color: #ffffff}
 
 /*Button Hover bg*/
 .btn.btn-hvr-white:hover,.btn.btn-hvr-white:focus{color: #18212e;border-color:#fff;background: transparent !important;}
 .btn.btn-hvr-white .btn-hvr-effect {background: #fff;border-color: #fff}
 .btn.btn-hvr-blue:hover,.btn.btn-hvr-blue:focus{color: #fff;border-color: #03a9f5;background: transparent !important;}
-.btn.btn-hvr-blue .btn-hvr-effect {background: #03A9F5;border-color: #03A9F5}
+.btn.btn-hvr-blue .btn-hvr-effect {background: #258bd5;border-color:#258bd5}
 .btn.btn-hvr-pink:hover,.btn.btn-hvr-pink:focus{color: #fff;border-color: #05064e;background: transparent !important;}
 .btn.btn-hvr-pink .btn-hvr-effect {background: #05064e;border-color: #05064e}
 
