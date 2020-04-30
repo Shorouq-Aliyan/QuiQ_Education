@@ -912,6 +912,14 @@ span.anchor-circle{
     font-family: 'Teko', sans-serif;
 
 }
+.sub-title-pri{
+    font-size: 40px;
+    font-weight: 400;
+    text-align:center;
+    color:white;
+    font-family: 'Teko', sans-serif;  
+}
+
 .heading-area{
     font-size: 18px;
     font-weight: 400;
@@ -1204,8 +1212,18 @@ span.anchor-circle{
  color: white;
 
 }
-
-
+.para-pri{
+    font-size: 25px;
+ line-height: 30px;
+ color: white;
+ text-align:center;
+}
+#h3{
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+    text-align:right;   
+}
  
 #testimonial-slider::after{
     font-family: "Font Awesome 5 Free";
