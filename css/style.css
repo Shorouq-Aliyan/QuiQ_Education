@@ -3840,7 +3840,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
     box-shadow: 10px 10px 40px rgba(80, 80, 80, 0.15),
       15px 15px 30px rgba(80, 80, 80, 0.05), 0 0 120px rgba(80, 80, 80, 0.6);
     bottom: -30px;
-    background-image: url("https://image.flaticon.com/icons/svg/2316/2316674.svg");
+    /* background-image: url("img/speed.svg"); */
     background-size: 40%;
     color: #555;
     line-height: 52px;
