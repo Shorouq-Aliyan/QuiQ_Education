@@ -1477,7 +1477,7 @@ audio, video, canvas {
 ====================================== */
 
 .footer-style-1{
-    padding: 5rem 0;
+    padding: 1rem 0;
 }
 
 .footer-social{
@@ -3187,7 +3187,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
         justify-content: center;
         font-size: 30px;
         line-height: 40px;
-        margin:70px 0px 0px 0px;
+        margin:0px 0px 0px 0px;
     }
 
 }
@@ -3367,7 +3367,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
     /***
       box-shadow: 0 0 65px rgba(0,0,0,.07) inset, 0 0 35px rgba(0,0,0,.05) inset;**/
   }
-  
+/*   
   .listar-map-button-text span {
     background-color: #fff;
     color: #252525;
@@ -3383,11 +3383,11 @@ input.inputerror, textarea.inputerror, select.inputerror {
     line-height: 1.6;
     padding: 10px 25px;
     box-shadow: 0 0 300px rgba(0, 0, 0, 0.65), 0 0 30px rgba(0, 0, 0, 0.06);
-    border-radius: 50px;
+    border-radius: 0px;
     background-color: rgba(35, 40, 45, 0.9);
     color: #fff;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
-  }
+  } */
   
   header .footer-wave {
     max-width: 102%;
