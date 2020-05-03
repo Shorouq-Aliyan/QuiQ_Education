@@ -699,7 +699,9 @@ header .nav-holder.active .shape-right {
     position: relative;
     color: #fff;
 }
-
+.title1{
+    color:black;
+}
 .nav-holder .full-menu-detail .title:before {
     content: "";
     height: 3px;
@@ -1211,6 +1213,11 @@ span.anchor-circle{
  line-height: 30px;
  color: white;
 
+}
+.para1{
+    font-size: 19px;
+ line-height: 30px;
+    color:rgb(71, 71, 71)1, 71, 71);
 }
 .para-pri{
     font-size: 25px;
@@ -3367,7 +3374,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
     /***
       box-shadow: 0 0 65px rgba(0,0,0,.07) inset, 0 0 35px rgba(0,0,0,.05) inset;**/
   }
-/*   
+  
   .listar-map-button-text span {
     background-color: #fff;
     color: #252525;
@@ -3387,7 +3394,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
     background-color: rgba(35, 40, 45, 0.9);
     color: #fff;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
-  } */
+  }
   
   header .footer-wave {
     max-width: 102%;
@@ -3713,7 +3720,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
     .listar-feature-item-title.listar-feature-counter-added
     > span {
     margin-left: 25px;
-    border-radius: 0 50px 50px 0;
+    border-radius: 50px 0 0 50px;
   }
   
   .listar-feature-item .listar-feature-item-title > span {
@@ -3736,7 +3743,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
     white-space: nowrap;
     position: absolute;
     top: -3px;
-    left: -40px;
+    left: 65px;
     border-radius: 50px;
     background-color: #fff;
   }
